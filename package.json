@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By 𝐍𝐀𝐓𝐒𝐔 boy tech",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --𝐍𝐀𝐓𝐒𝐔-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name 𝐍𝐀𝐓𝐒𝐔-MD",
     "stop": "pm2 stop 𝐍𝐀𝐓𝐒𝐔-MD",
     "restart": "pm2 restart 𝐍𝐀𝐓𝐒𝐔-MD"
   },
