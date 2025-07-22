@@ -1,1 +1,1 @@
-](https://files.catbox.moe/p1xybt.jpg)
+(https://files.catbox.moe/p1xybt.jpg)
